@@ -153,5 +153,19 @@ login=()=>{
 // clr=setTimeout(login,2000);
 // clearTimeout(clr);
 // SetInterval
-clr=setInterval(login,2000);
-clearInterval(clr);
+// clr=setInterval(login,2000);
+// clearInterval(clr);
+
+//JavaScript Local Storage
+// localStorage.setItem('rollno',64);
+// undefined
+// localStorage.getItem('rollno')
+// "64"
+// localStorage.getItem('rollno');
+// "64"
+// localStorage.removeItem('rollno');
+// undefined
+// localStorage
+// Storage {length: 0}
+
+//JSON
